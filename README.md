@@ -25,6 +25,5 @@ If you use this repository, please cite our paper:
 }
 
 
-```markdown
 ## 📬 Contact
 For questions or collaborations, please reach out to: **Juanhui Li** – lijuanh1@msu.edu
