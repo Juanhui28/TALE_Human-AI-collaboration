@@ -13,6 +13,10 @@ This paper explores how **LLMs**, combined with **Retrieval-Augmented Generation
 - [Prompts](https://docs.google.com/document/d/e/2PACX-1vTkL5niBgKeO-Dw2pd0YUfYL7bSHVXntcWtT2BWicq3UGxRk6kLUBrJk7RIkJpcPK4PX1u1onYnd8eM/pub)
 - [More results](https://docs.google.com/document/d/e/2PACX-1vQQbWCMbgTnMQvSIhTJ6N11_yVne16Y3IPgMcSyi0YkUDrwlrXO-M6Q2bvKqse2rBXd3Ek-lJe8VKoK/pub)
 
+## 📬 Contact
+For questions or collaborations, please reach out to: **Juanhui Li** – lijuanh1@msu.edu
+
+
 ## 📄 Citation
 If you use this repository, please cite our paper:
 
@@ -25,5 +29,3 @@ If you use this repository, please cite our paper:
 }
 
 
-## 📬 Contact
-For questions or collaborations, please reach out to: **Juanhui Li** – lijuanh1@msu.edu
