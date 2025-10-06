@@ -10,7 +10,7 @@ This paper explores how **LLMs**, combined with **Retrieval-Augmented Generation
 ## 📂 Resources
 - [Official 3-PS2-1 link](https://www.nextgenscience.org/pe/3-ps2-1-motion-and-stability-forces-and-interactions)
 - [Official 3-LS4-3 link](https://www.nextgenscience.org/pe/3-ls4-3-biological-evolution-unity-and-diversity)
-- [Prompts](https://docs.google.com/document/d/e/2PACX-1vTkL5niBgKeO-Dw2pd0YUfYL7bSHVXntcWtT2BWicq3UGxRk6kLUBrJk7RIkJpcPK4PX1u1onYnd8eM/pub)
+- [Reproduce Prompts](https://docs.google.com/document/d/e/2PACX-1vTkL5niBgKeO-Dw2pd0YUfYL7bSHVXntcWtT2BWicq3UGxRk6kLUBrJk7RIkJpcPK4PX1u1onYnd8eM/pub)
 - [More results](https://docs.google.com/document/d/e/2PACX-1vQQbWCMbgTnMQvSIhTJ6N11_yVne16Y3IPgMcSyi0YkUDrwlrXO-M6Q2bvKqse2rBXd3Ek-lJe8VKoK/pub)
 
 ## 📬 Contact
